@@ -2,8 +2,7 @@
 	<img width="200" src="./frontend/website/public/static/img/coda-logo@3x.png" alt="Coda Logo" />
 </a>
 <hr/>
-
-Coda is the first cryptocurrency with a lightweight, constant-sized blockchain. This is the main source code repository for the Coda project. It contains code for the OCaml protocol implementation, [website](https://codaprotocol.com), and wallet. Enjoy!
+ is the first cryptocurrency with a lightweight, constant-sized blockchain. This is the main source code repository for the Coda project. It contains code for the OCaml protocol implementation, [website](https://codaprotocol.com), and wallet. Enjoy!
 
 ## Notes
 
